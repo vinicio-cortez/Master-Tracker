@@ -30,3 +30,12 @@
 | **Description** | Technical SEO audit with branded report |
 | **Tools** | Screaming Frog, Ubersuggest, PageSpeed Insights |
 | **Status** | ✅ Complete |
+## Live Demo
+## Client Portal (Cortez Digital)
+| Field | Value |
+|-------|-------|
+| **Live Demo** | https://dry-coyness-epilogue.ngrok-free.dev |
+| **Test Credentials** | client1 / password123 |
+
+
+
