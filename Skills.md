@@ -1,4 +1,24 @@
-# Skills
+## Automation & Scripting
+| Skill | Level | Evidence |
+|-------|-------|----------|
+| Batch Scripting | 🟢 Proficient | Cortez Digital posting automation |
+| FFmpeg Video Generation | 🟢 Proficient | auto_reel_simple.py (4 reels in 2 seconds) |
+| Windows Task Scheduler | 🟢 Proficient | April 15-21 posting schedule |
+| Instagrapi | 🟡 Configured | Waiting for account warmup |
+
+## AI/Agent Tools
+| Skill | Level | Evidence |
+|-------|-------|----------|
+| DeerFlow 2.0 | 🟢 Proficient | Multi-agent orchestration for content research |
+| Ollama Local Deployment | 🟢 Proficient | qwen2.5:7b for Spanish caption generation |
+| ComfyUI | 🟢 Proficient | Local image generation (60GB install) |
+| OpenClaw Workspaces | 🟢 Proficient | Agent workspace configuration |
+
+- Chart.js for interactive charts
+- CSV export with Python
+- Session management with cookies
+- Countdown timer with JavaScript
+- File downloads (DOCX, PPTX) via Flask
 
 ## Backend
 - Flask
