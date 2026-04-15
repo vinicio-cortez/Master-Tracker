@@ -1,3 +1,10 @@
+## Content Creation
+| Skill | Level | Evidence |
+|-------|-------|----------|
+| Script Writing (Spanish) | 🟢 Proficient | Educational script for Cortez Digital |
+| TTS Voice Selection | 🟢 Proficient | Edge natural voices (Andrés/Marta, Guatemala) |
+| OBS Studio | 🟢 Proficient | System audio capture for voiceovers |
+| Audacity | 🟡 Familiar | Basic recording (loopback troubleshooting) |
 ## Automation & Scripting
 | Skill | Level | Evidence |
 |-------|-------|----------|
