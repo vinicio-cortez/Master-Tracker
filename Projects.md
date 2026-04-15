@@ -1,3 +1,19 @@
+## Client Payment Infrastructure Setup
+| Field | Value |
+|-------|-------|
+| **Type** | Business Operations |
+| **Components** | Contract template (ES), Wise Business account, New PayPal Guatemala |
+| **Purpose** | Ready to accept payments from international clients |
+| **Status** | ⏳ Pending |
+| **Priority** | Medium (before first paid engagement) |
+| **Estimated Time** | 2-3 hours total |
+| **Blocked By** | None |
+### Payment Setup Sub-tasks
+- [ ] Create simple 1-page contract template in Spanish
+- [ ] Sign up for Wise Business account (verify ID)
+- [ ] Close/lock US PayPal account
+- [ ] Create new PayPal Guatemala account
+- [ ] Test receiving $1 from friend/family
 ## Reddit Lead Generation Pipeline
 | Field | Value |
 |-------|-------|
