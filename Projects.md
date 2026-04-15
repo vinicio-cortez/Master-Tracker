@@ -1,3 +1,21 @@
+## Reddit Lead Generation Pipeline
+| Field | Value |
+|-------|-------|
+| **Type** | Client Acquisition |
+| **Platform** | r/ComunidadSEO |
+| **Strategy** | Technical quick audits → Value-first DMs → Paid conversions |
+| **Status** | 🟢 Active |
+| **Leads** | 2 (Pablo - warm, Background-Tear3857 - pending) |
+| **Conversion Goal** | SEO audit services ($75/hr) |
+## ClickShield Installation
+| Field              | Value                                             |
+| ------------------ | ------------------------------------------------- |
+| **Type**           | Security Tool Setup                               |
+| **Tech Stack**     | Python, Django, Node.js, Chrome Extension         |
+| **Purpose**        | Real-time link scanning with visual safety badges |
+| **Status**         | ⏳ Pending                                         |
+| **Priority**       | Medium (after Week 2 content)                     |
+| **Estimated Time** | 30-45 min                                         |
 ## Cortez Digital Instagram Automation
 | Field | Value |
 |-------|-------|

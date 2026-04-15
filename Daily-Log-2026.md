@@ -1,4 +1,30 @@
+# Daily Log - April 15, 2026
 
+## What I Built
+- First Cortez Digital Instagram post live
+- First reel completed: Edge TTS → OBS recording → Audacity mix (-23 dB) → CapCut captions → Published
+- Reddit lead pipeline: 2 DMs sent, 1 warm reply
+
+## What I Learned
+- Reddit profile settings can hide recent activity - check "Content and activity" settings
+- CapCut free tier allows auto-captions but requires correct menu path
+- PageSpeed Insights mobile LCP is the key metric for SaaS founders
+- Written-only communication builds trust and creates referenceable history
+
+## Client Wins
+- Pablo (AnonDocs): Provided 5-point technical SEO checklist
+- Background-Tear3857: DM sent with 3-framework approach
+
+## Decisions Made
+- Keep all client communication in writing for reference
+- Use "quick checklist first, pitch later" as standard approach
+- Reel workflow documented for repeatability
+
+## Next
+- Follow up with Pablo in 3-4 days
+- Prepare response if Background-Tear3857 sends URL
+- Generate Week 2 Instagram content
+- Send 2 Upwork proposals
 # Daily Log - April 12 to 14, 2026
 
 ## What I Built

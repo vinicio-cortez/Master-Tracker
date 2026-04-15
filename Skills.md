@@ -1,3 +1,10 @@
+## Client Acquisition
+| Skill                       | Level         | Evidence                                   |
+| --------------------------- | ------------- | ------------------------------------------ |
+| Reddit Lead Generation      | 🟢 Proficient | 2 qualified leads in 24 hours              |
+| Technical SEO Quick Audit   | 🟢 Proficient | 4-point framework (Meta, Mobile, SSL, LCP) |
+| Value-First DM Strategy     | 🟢 Proficient | Checklists before pitches                  |
+| PageSpeed Insights Analysis | 🟢 Proficient | Mobile/Desktop diagnostic interpretation   |
 ## Content Creation
 | Skill | Level | Evidence |
 |-------|-------|----------|
