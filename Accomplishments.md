@@ -1,6 +1,7 @@
+## April 20, 2026
+- 04:24 PM: Merlyn should be up and running 23/5
+
 ## April 19, 2026
-- 10:49 PM: Merlyn is Production-Ready!
-- 10:49 PM: Merly is Production-Ready!
 - 08:37 PM: Live scanning working, backtest +35.6%, Elite signals locked, dashboard needs fix next session
 - 12:27 PM: Testing end-session command
 
