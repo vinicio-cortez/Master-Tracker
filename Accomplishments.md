@@ -1,4 +1,5 @@
 ## April 24, 2026
+- 03:45 PM: Polishing session: Session-close protection, position tracking, Papa HIGH-only filter, signal deduplication (content-based), recovery script, systemd services for auto-start on boot, Merlyn state documentation.
 - 02:57 PM: Polishing session: MTF threshold raised 5→7/12 (backtest-verified: 52.8% WR, 1.05 PF). Dynamic confluence factors from real scanner data. SMC scanner column case fixed for yfinance. FRED macro data displaying correctly. Signal enrichment verified (21 sources). Trade still running +$97.
 - 02:02 PM: Post-outage recovery: all systems restored. FRED data fixed (Fed 3.64%). Elite chart with live SMC data generated. Signal enrichment verified - 21 sources flowing, macro 3/10 "trade smaller" warning active. SMC scanner column case fixed. Trade +$97 running into weekend.
 - 01:30 PM: Friday live trading: Merlyn executed via OpenRange NT8 strategy. 2 contracts LONG 7189.25 running +$97.50 into weekend. Manual trades closed profit. Quality filters, disk cooldown, preflight check all working. Crontab restored after power outage. Testing Apex overnight/weekend hold.
