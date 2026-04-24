@@ -1,3 +1,6 @@
+## April 24, 2026
+- 09:46 AM: Merlyn live trading: OpenRange NT8 strategy executing, quality filters active, disk-based cooldown working, position tracking needed. Trade open LONG 7161.50 +14pts. Preflight check built. Bias reports polished. 4 known items for next session.
+
 ## April 23, 2026
 - 10:50 PM: April 23, 2026 — Complete Merlyn Build Day
 - 09:26 PM: Phase 5 complete: ML Filters (87% confidence, rule-based ML), Quarterly Theory (Day 22 accumulation, fractal cycles), Multi-Client (MRR $299/mo tracking), White-Label (per-client branding), Billing (Stripe stub). Total: 27 modules. All wired and tested.
