@@ -1,23 +1,32 @@
-| Goal                                   | Target Date    | Status                       |
-| -------------------------------------- | -------------- | ---------------------------- |
-| Monitor Cortez Digital first post      | April 15, 2026 | ⏳ Scheduled                  |
-| Generate Week 2 Instagram content      | April 18, 2026 | ⏳ Not started                |
-| Enable Instagrapi automation           | May 1, 2026    | ⏳ Waiting for account warmup |
-| Research Instagram caption spacing fix | April 20, 2026 | ⏳ Not started                |
+# Goals — 2026
+> Last Updated: April 23, 2026
 
-| Goal                        | Target Date    | Status                |
-| --------------------------- | -------------- | --------------------- |
-| Complete Outlier onboarding | April 10, 2026 | ⏳ Waiting             |
-| Complete Test Drive feature | April 10, 2026 | ✅ COMPLETED           |
-| Push code to GitHub         | April 10, 2026 | ✅ COMPLETED           |
-| Deploy client portal to web | April 15, 2026 | ⏳ Using ngrok for now |
-| Upgrade client dashboard    | April 12, 2026 | ⏳ Not started         |
-| Upgrade admin dashboard     | April 13, 2026 | ⏳ Not started         |
+## Q2 2026 (April - June)
 
-| Goal | Target Date | Status |
-|------|-------------|--------|
-| Complete Outlier onboarding | April 10, 2026 | ⏳ Waiting |
-| Complete first paid Outlier task | April 11, 2026 | ⏳ Not started |
-| Deploy client portal to web | April 15, 2026 | ⏳ Not started |
-| Add real client emails to portal | April 12, 2026 | ⏳ Not started |
-| Get first UpWork client | April 30, 2026 | ⏳ 1 proposal pending |
+### Merlyn Trading Engine
+- [x] Build core ICT/SMC engine
+- [x] Connect to IBKR paper trading
+- [x] Backtesting engine
+- [x] Streamlit dashboard
+- [x] Apex prop firm bridge
+- [ ] Collect 100+ paper trades
+- [ ] Achieve positive expectancy in paper
+- [ ] Launch subscription tiers
+- [ ] Pass Apex eval account
+
+### Academia FuturosCapital
+- [ ] Publish 30 educational content pieces
+- [ ] Grow Instagram/Discord audience
+- [ ] First paying subscriber
+- [ ] Bilingual content pipeline
+
+### Cortez Digital
+- [ ] Land first SEO client ($1k+)
+- [ ] Carlos partnership signed
+- [ ] 3 completed portfolio samples
+- [ ] $3k monthly revenue
+
+### Personal
+- [ ] Complete Jupiter Return intentional work
+- [ ] Dedicated workspace setup
+- [ ] Financial independence from agency/bot revenue
