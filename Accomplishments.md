@@ -1,4 +1,5 @@
 ## April 23, 2026
+- 08:58 PM: Massive intelligence expansion: COT tracker, market structure, macro context, options flow, fear & greed, intermarket, FRED macro, futures roll — 8 modules, 18 sources total, all wired into signal enrichment
 - 08:46 PM: Intelligence hunt: COT tracker, market structure, macro context, options flow, fear & greed, futures roll detection — 7 new intelligence modules wired into Merlyn signal enrichment
 - 08:08 PM: Good call. Everything's in place for morning:
 
