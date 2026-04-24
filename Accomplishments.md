@@ -1,4 +1,5 @@
 ## April 24, 2026
+- 02:02 PM: Post-outage recovery: all systems restored. FRED data fixed (Fed 3.64%). Elite chart with live SMC data generated. Signal enrichment verified - 21 sources flowing, macro 3/10 "trade smaller" warning active. SMC scanner column case fixed. Trade +$97 running into weekend.
 - 01:30 PM: Friday live trading: Merlyn executed via OpenRange NT8 strategy. 2 contracts LONG 7189.25 running +$97.50 into weekend. Manual trades closed profit. Quality filters, disk cooldown, preflight check all working. Crontab restored after power outage. Testing Apex overnight/weekend hold.
 - 09:47 AM: Merlyn live: OpenRange executing on NT8, LONG 7161.50 +12pts running, quality filters blocking LOW signals, 5-min disk cooldown active, bias report polished, preflight check built. 4 fixes queued: position tracking, signal-once, Papa HIGH-only, cooldown hardening.
 - 09:46 AM: Merlyn live trading: OpenRange NT8 strategy executing, quality filters active, disk-based cooldown working, position tracking needed. Trade open LONG 7161.50 +14pts. Preflight check built. Bias reports polished. 4 known items for next session.
