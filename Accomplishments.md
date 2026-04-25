@@ -1,4 +1,5 @@
 ## April 25, 2026
+- 04:00 PM: Logo design brief massively updated: Gemini concept reviewed (keep low-poly geometric quetzal, drop red/bullion/3D/spotlights). Refined prompts for Leonardo.ai (Quetzal minimalist + Hat minimalist). Two distinct use cases documented (Logo vs Hero Image). Final logo family defined with usage matrix.
 - 02:54 PM: Merlyn logo design brief created — 3 concepts (Quetzal-Wizard merge, Hat alone, Quetzal alone). Color palette locked (#C8A04C gold, #10A0D5 teal, #0D1117 dark). Full usage guidelines, file requirements, brand specs documented. Ready for designer handoff.
 - 02:27 PM: Papá Scalper dashboard launched (port 8503). Systemd services created (merlyn-bot, merlyn-dashboard, papa-dashboard — auto-start on boot). Monday dry-run built and tested — 11/11 passed, 65 intelligence points flowing, all systems go. push_all.sh created for one-command GitHub sync twice daily.
 - 02:22 PM: Push-all command created (~/push_all.sh), locked as read-only, scheduled for 12PM and 6PM Guatemala via crontab. Critical reminders added to CLAUDIA.md for fresh session awareness. All repos clean and pushed.
