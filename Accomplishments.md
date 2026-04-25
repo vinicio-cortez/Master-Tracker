@@ -1,4 +1,5 @@
 ## April 24, 2026
+- 08:05 PM: News Guard (real-time event protection), Adaptive Stops (ATR-based, currently 24.5pts vs fixed 40), and Trade Screenshots built and wired into main.py. News Guard pauses during FOMC/CPI/NFP. Adaptive stops reduce risk by ~40% in normal vol. 64 total Merlyn modules.
 - 08:01 PM: Daily Edge Score, Position Heat Map, and Volume Profile Confluence built and wired. Daily Edge: 60/100 MODERATE for today. 61 total Merlyn modules. Weighted consensus engine deferred pending trade data collection (review May 1).
 - 07:47 PM: COT Extreme Positioning, Relative Strength (MES vs SPY), Correlation Divergence, and Event-Anchored VWAP built and wired. Merlyn now has 8 independent signal generators (SMC, Market Profile, Delta, VWAP, Carver, COT Extremes, Relative Strength, Correlation). 58 total modules.
 - 07:43 PM: Market Profile, Delta Divergence, and Anchored VWAP wired as independent signal confirmers. Merlyn now has 4 signal generators (SMC + MP + Delta + VWAP) for multi-source confirmation. 54 modules total.
