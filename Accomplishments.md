@@ -1,4 +1,5 @@
 ## April 24, 2026
+- 09:19 PM: Security layer complete: Audit logging (immutable, chain-hashed, tamper-evident), Config Vault (encrypted storage with stdlib fallback), Signal Encryption (CSV protection), PyArmor compilation script. Runtime protection active (integrity checks, dead man's switch, anti-debug, hardware fingerprint). 78 modules + security suite.
 - 09:10 PM: Security layer built: Runtime protection with integrity checks, dead man's switch, anti-debug detection, hardware fingerprinting, and panic mode. NT8 stealth guide documented. Protection wired into main.py startup. 75 Merlyn modules + Papá Scalper + Security layer.
 - 08:50 PM: Security audit completed — 10 issues found. FRED keys moved to .env (4 files fixed). API-KEYS-MASTER.md removed from git tracking. .gitignore hardened. .env created with 600 permissions. Papá's Scalper CSV bridge built + dedicated NT8 strategy (SessionTrader). 75 Merlyn modules + Papá Scalper + Security baseline.
 - 08:43 PM: Insider Trading tracker built — SEC Form 4 + OpenInsider data. Currently 95 sells vs 7 buys (CLUSTER SELLING — strong bearish). Wired into signal enrichment. 74 total Merlyn modules + Papá's Scalper.
