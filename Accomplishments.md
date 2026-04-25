@@ -1,4 +1,5 @@
 ## April 24, 2026
+- 08:38 PM: Correlation Decoupling Alert, Sector Rotation Velocity, and Liquidity Heat Map built and wired. Papá's Scalper engine built — dedicated 1m/5m scalping with 4 confirmers, 8pt stop/10pt target, 3-min cooldown, signals to Papá only. All 3 analytics modules working (ES-NQ corr 0.97 normal, Tech leading +3.7%, Liquidity EXCELLENT). 73 Merlyn modules + Papá's Scalper.
 - 08:24 PM: Option Flow (unusual activity detection, $47M puts vs $41M calls - SLIGHTLY BEARISH) and Economic Surprise Index built and wired. 70 total Merlyn modules.
 - 08:12 PM: Weekend Gap Analyzer (-38pts avg Monday gap), Breadth Indicators (8/10 sectors above MA), Gamma Exposure (LONG GAMMA, Call Wall $725, Put Wall $690), and Dark Pool Detector built and wired into signal enrichment. 68 total Merlyn modules.
 - 08:05 PM: News Guard (real-time event protection), Adaptive Stops (ATR-based, currently 24.5pts vs fixed 40), and Trade Screenshots built and wired into main.py. News Guard pauses during FOMC/CPI/NFP. Adaptive stops reduce risk by ~40% in normal vol. 64 total Merlyn modules.
