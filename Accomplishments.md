@@ -1,4 +1,5 @@
 ## April 24, 2026
+- 08:24 PM: Option Flow (unusual activity detection, $47M puts vs $41M calls - SLIGHTLY BEARISH) and Economic Surprise Index built and wired. 70 total Merlyn modules.
 - 08:12 PM: Weekend Gap Analyzer (-38pts avg Monday gap), Breadth Indicators (8/10 sectors above MA), Gamma Exposure (LONG GAMMA, Call Wall $725, Put Wall $690), and Dark Pool Detector built and wired into signal enrichment. 68 total Merlyn modules.
 - 08:05 PM: News Guard (real-time event protection), Adaptive Stops (ATR-based, currently 24.5pts vs fixed 40), and Trade Screenshots built and wired into main.py. News Guard pauses during FOMC/CPI/NFP. Adaptive stops reduce risk by ~40% in normal vol. 64 total Merlyn modules.
 - 08:01 PM: Daily Edge Score, Position Heat Map, and Volume Profile Confluence built and wired. Daily Edge: 60/100 MODERATE for today. 61 total Merlyn modules. Weighted consensus engine deferred pending trade data collection (review May 1).
