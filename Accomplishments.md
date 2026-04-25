@@ -1,4 +1,5 @@
 ## April 25, 2026
+- 12:20 PM: Trading polish: Trade Pairing Analysis (directional edge detection), P&L Autocorrelation (streak/hot hand analysis), Elite Chart real SMC integration. Pairing shows actual WR vs opposite — proves directional edge. Autocorrelation detects win/loss clustering for position sizing optimization.
 - 12:15 PM: Signal tier scaffold built for brainstorming: Comunidad (Free), Opera ($149/mo), Crece ($299/mo), Legacy (VIP/Family). Three detail levels (basic/full/oracle). Subscriber manager with daily/weekly limits. Family VIP list defined. 10 future ideas parked for later. Papá's Scalper pipeline complete with clean embed format. Protected installer with hardware-locked licensing.
 - 10:43 AM: Papá's Scalper pipeline complete: dedicated CSV bridge, Discord DM delivery (bot token configured, tested successfully), independent performance tracker, NT8 SessionTrader strategy. Protected installer built with hardware-locked licensing. Branded README with legal protection. New machine setup script created. Papá received first test DM.
 
