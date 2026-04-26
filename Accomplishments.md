@@ -1,4 +1,5 @@
 ## April 25, 2026
+- 08:59 PM: Merlyn vs Wall Street live dashboard built (port 8504). Compares Merlyn's real P&L against SPY buy-and-hold and coin flip benchmarks. Shows scoreboard, trade history, and verdict. Files renamed to generic names for NT8 stealth (session_data.csv, intraday_data.csv).
 - 06:32 PM: Brand assets built: 20 taglines (ES/EN), 30-second elevator pitch, Merlyn origin story (short + expanded), 5 social media bio templates, 5 key messages for consistent communication. All ready for copy-paste use on website, social media, investor decks.
 - 04:00 PM: Logo design brief massively updated: Gemini concept reviewed (keep low-poly geometric quetzal, drop red/bullion/3D/spotlights). Refined prompts for Leonardo.ai (Quetzal minimalist + Hat minimalist). Two distinct use cases documented (Logo vs Hero Image). Final logo family defined with usage matrix.
 - 02:54 PM: Merlyn logo design brief created — 3 concepts (Quetzal-Wizard merge, Hat alone, Quetzal alone). Color palette locked (#C8A04C gold, #10A0D5 teal, #0D1117 dark). Full usage guidelines, file requirements, brand specs documented. Ready for designer handoff.
