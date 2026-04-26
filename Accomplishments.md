@@ -1,3 +1,6 @@
+## April 26, 2026
+- 08:16 AM: Sunday Funday: 10 Merlyn haikus written, Merlyn Roasts trade review generator built, Merlyn's fictional resume created, haiku scheduler wired (3x daily Mon-Fri + Friday roast). Haikus and roasts are standalone — no existing code touched. All saved for eternity.
+
 ## April 25, 2026
 - 10:13 PM: Massive ideation session: 30+ new ideas logged across 5 rounds — creative features, ecosystem expansions, partnerships, moonshots. Backlog now comprehensive covering technology, community, monetization, legacy, and wildcards. All saved to IDEAS-BACKLOG.md.
 - 08:59 PM: Merlyn vs Wall Street live dashboard built (port 8504). Compares Merlyn's real P&L against SPY buy-and-hold and coin flip benchmarks. Shows scoreboard, trade history, and verdict. Files renamed to generic names for NT8 stealth (session_data.csv, intraday_data.csv).
