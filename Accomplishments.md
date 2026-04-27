@@ -1,3 +1,6 @@
+## April 27, 2026
+- 06:24 AM: Earnings Calendar + Earnings Mode built and wired. Detects major reports (Visa, MSFT, GOOGL, AMZN, META, AAPL this week). Auto-switches to EARNINGS_STORM: 25% size, 2.5x stops, HIGH confidence only, 30min chaos window protection. Currently 5 majors in 48h — maximum protection active.
+
 ## April 26, 2026
 - 08:01 PM: Three new quant tools: Cointegration Test (Engle-Granger, 0/4 pairs cointegrated — pairs trading not viable now), Market Manipulation Detector (spoofing, layering, momentum ignition, flash crash, stop hunt detection — wired into main.py), Linear Regression Signal (OLS trend, R² filter, t-stat significance — BULLISH_TILT, R²=0.45, significant). All wired into enrichment. Merlyn now has 100+ modules.
 - 07:40 PM: Three quant tools from @MIRKOVICDEV content: Slippage-Aware Execution Model (predicts fill costs before entry), Data Validation Pipeline (6 checks, 83% quality, catches bad data), Signal Validation Framework (4-test: in-sample, out-of-sample, regime robustness, cost-adjusted — 4/4 PASSED). Data Validator + Slippage Model wired into main.py. LSTM shape bug fixed. All 6 dashboards online including new Control Hub (port 8500).
