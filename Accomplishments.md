@@ -1,4 +1,5 @@
 ## April 28, 2026
+- 04:53 PM: Merlyn V2 paper trading live on Sim101, full MTF stack, overnight hours enabled, eval at $24,057, $550 drawdown buffer, May 21 deadline. Fixed vc context alias in PowerShell.
 - 04:49 PM: ~/push_all.sh "Session wrap: Merlyn V2 paper trading live, Sim101 connected, full MTF stack, overnight enabled, eval at $24,057"
 
 ## April 27, 2026
