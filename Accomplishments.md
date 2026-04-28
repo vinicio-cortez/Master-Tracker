@@ -1,3 +1,6 @@
+## April 28, 2026
+- 04:49 PM: ~/push_all.sh "Session wrap: Merlyn V2 paper trading live, Sim101 connected, full MTF stack, overnight enabled, eval at $24,057"
+
 ## April 27, 2026
 - 10:00 PM: All 9 dashboards online and verified. Control Hub updated to show all. Post-Session Analysis dashboard added. Merlyn running overnight (passive scanning). Bias reports + haikus scheduled. Auto-pushes to GitHub twice daily. CSVs clean. PC can sleep — recovery.sh brings everything back in 30 seconds.
 - 06:47 PM: Post-Session Analysis Dashboard built (port 8508) — auto-generates daily session report with MTF timeline, blocked signals breakdown, what-if analysis, and session verdict. Persists data even after bot restarts. Added to recovery script. Monday analysis: MES +22pts, 18 signals blocked (risk), 0 executed, $0 risk taken. Discipline preserved capital. All 7 dashboards online.
