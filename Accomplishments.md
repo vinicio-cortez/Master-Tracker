@@ -1,4 +1,5 @@
 ## April 29, 2026
+- 09:01 AM: "2026-04-29: Definitive paper_trading_v2 deployed (trailing stops, RL agents, dupe prevention, session gate, maintenance auto-close). Discord dedup added to main.py (5min cooldown + 15min same-direction block). Cron report schedule finalized (Risk-Personality-Direction flow, 9 reports/day). All systems verified clean."
 - 08:45 AM: "2026-04-29 Morning: Rebuilt paper_trading_v2 as definitive version. Donchian trailing stops, RL agents, dupe prevention, session gate, maintenance auto-close all baked into one clean file. Fixed SMCScanner API (find_setup returns TradeSetup). Report cron schedule updated (Risk-Personality-Direction flow). Merlyn running clean, scanning for next setup."
 
 ## April 28, 2026
