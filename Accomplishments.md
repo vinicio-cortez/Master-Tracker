@@ -1,3 +1,6 @@
+## April 29, 2026
+- 08:45 AM: "2026-04-29 Morning: Rebuilt paper_trading_v2 as definitive version. Donchian trailing stops, RL agents, dupe prevention, session gate, maintenance auto-close all baked into one clean file. Fixed SMCScanner API (find_setup returns TradeSetup). Report cron schedule updated (Risk-Personality-Direction flow). Merlyn running clean, scanning for next setup."
+
 ## April 28, 2026
 - 09:14 PM: "2026-04-28 Evening: Full Merlyn activation. 8 dashboards live, Telegram alerts wired, License system verified. Donchian trailing stops deployed (stop_atr=1.0, activation_r=0.5, trail_atr=2.0, donchian style — optimized from 288 combinations). RL agents (merlyn_alpha/beta) wired to learn from live trade outcomes. TP strategy validated: ATR×2.5 kept (46/69 wins prove it), session gate + maintenance auto-close added for Apex compliance. 222 modules. Paper trading on Sim101."
 - 08:55 PM: "2026-04-28 Evening: All dashboards live, Telegram alerts wired, Donchian trailing stops deployed, RL agents (alpha/beta) learning from live trades, Session-aware TP with time-scaled targets and session gate. 222 modules. Paper trading on Sim101."
