@@ -1,4 +1,5 @@
 ## April 28, 2026
+- 08:30 PM: echo "2026-04-28: Activated dashboards, fixed Telegram alerts, built trailing stop optimizer (Donchian), deployed trail to paper_trading_v2, wired RL agents (alpha/beta) to learn from live trade outcomes" | ~/end-session.sh
 - 04:53 PM: Merlyn V2 paper trading live on Sim101, full MTF stack, overnight hours enabled, eval at $24,057, $550 drawdown buffer, May 21 deadline. Fixed vc context alias in PowerShell.
 - 04:49 PM: ~/push_all.sh "Session wrap: Merlyn V2 paper trading live, Sim101 connected, full MTF stack, overnight enabled, eval at $24,057"
 
