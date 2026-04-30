@@ -1,3 +1,6 @@
+## April 30, 2026
+- 08:50 AM: "2026-04-30 Morning: Adaptive trailing stop deployed (volatility-based activation and trail distance). Trailing parameters lowered (0.25R activation, 1.5x trail, 2.0x ATR target). Guardian fixed to prevent duplicate processes. Crontab restored and verified. Backtest agents enriched to 27 states with 1681 wins. Mobile Linux Conversion project saved to vault."
+
 ## April 29, 2026
 - 08:35 PM: "2026-04-29: Unified Merlyn stable. Trend filter, agent voting (1/2 threshold, trained on 70 trades), Q-table persistence, open trade persistence, guardian auto-restart, feature vector saving, maintenance auto-close, .pyc cache cleared to fix tuple bug. Signals broadcast always, trades only when agents approve. Ready for overnight data collection."
 - 09:01 AM: "2026-04-29: Definitive paper_trading_v2 deployed (trailing stops, RL agents, dupe prevention, session gate, maintenance auto-close). Discord dedup added to main.py (5min cooldown + 15min same-direction block). Cron report schedule finalized (Risk-Personality-Direction flow, 9 reports/day). All systems verified clean."
