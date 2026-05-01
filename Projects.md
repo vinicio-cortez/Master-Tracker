@@ -34,3 +34,18 @@
 - Papá's Scalper Module (1m/5m bot)
 - Subscription infrastructure
 - First $1k revenue
+
+## After-Session Fixes (2026-05-01)
+
+### Economic Calendar News Guard
+- Fix timezone comparison: make both `datetime.now()` and API event time UTC-aware
+- Add maximum blackout of 45 minutes to prevent stuck timer
+- Fix "0 min after" display message
+- Clear `.pyc` cache after fix to ensure changes take effect
+- Re-enable news guard after testing
+
+### Daily Summary Syntax Warning
+- Fix invalid escape sequence `\$` on main.py line 543
+
+### Duplicate Process Issue
+- Investigate why nohup spawns child main.py process
