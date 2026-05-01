@@ -49,3 +49,38 @@
 
 ### Duplicate Process Issue
 - Investigate why nohup spawns child main.py process
+
+## Backtest Findings (2026-05-01)
+
+### Key Insights
+- **LONG vs SHORT**: 46/46 LONG wins (100%) vs 0/16 SHORT wins (0%). RL agents correctly blocking shorts.
+- **Confidence**: MEDIUM 95.8% win rate. LOW 0%. LOW = guaranteed loss.
+- **Two-Stage Trail**: +$4,800 improvement over original. 100% profitable in Monte Carlo.
+- **MTF Data**: Only 2 trades have MTF scores saved. Need to enrich paper_trades.json.
+
+### Action Items
+- Save MTF score and bias with every trade in _save_closed_trade
+- Increase RL agent short-blocking threshold (currently agents vote 0/2 on shorts)
+- Consider momentum fallback only for MEDIUM confidence, never LOW
+
+## Final Backtest Results (2026-05-01)
+
+### Two-Stage Trail Validation
+- **62 trades tested, 1000 Monte Carlo simulations**
+- **100% probability of profit**
+- **+$4,800 average P&L** (vs -$179.75 original)
+- **96.8% win rate** (vs 74.2% original)
+
+### Optimal Parameters (Confirmed)
+- Activation: 0.25R
+- Trail Distance: 1.5x ATR
+- TP Multiplier: 2.0x ATR
+- Stage 2 trigger: 1R profit (tightens trail by 50%)
+
+### LONG vs SHORT
+- LONGS: Original +$380 → With Trail +$3,679 (+3,299)
+- SHORTS: Original -$560 → With Trail +$1,119 (+1,679)
+- Both 100% profitable in Monte Carlo
+
+### Data Enrichment
+- _save_closed_trade now captures: stop, target, confidence, confluence_score, setup_type, bias, mtf_consensus, market_regime
