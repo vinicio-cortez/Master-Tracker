@@ -1,86 +1,58 @@
 # Projects — Active & Completed
-> Last Updated: April 23, 2026
+> Last Updated: May 1, 2026
 
 ## 🟢 ACTIVE
 
 ### Merlyn Trading Engine (Cortez Capital)
-- **Status:** Production, paper trading
-- **Stack:** Python, yFinance, OpenBB, Streamlit, NinjaTrader, Discord
-- **Completed:** ICT pattern detection, MTF confluence, backtesting, Apex bridge, dashboard, Elite signals
-- **Next:** Futures roll detection, FRED parsing fix, chart refinement, collect trade data
+- **Status:** Production, paper trading on Sim101
+- **Stack:** Python, yFinance, Streamlit, NinjaTrader, Discord, SQLite
+- **Completed (May 2026):** Two-stage trail, momentum fallback, RL agent voting, trade enrichment, built-in report scheduler, client dashboard (SQLite), analytics module, economic calendar (hardcoded), all 9 dashboards fixed, hub buttons working, MASTER-CONTEXT auto-update
+- **Next:** pandas integration for faster backtests, wire RL agents to SQLite, market snapshots, VPS migration
 
 ### Academia FuturosCapital
 - **Status:** Pre-revenue, build phase
-- **Focus:** Trading education, signal distribution, content pipeline
-- **Next:** Content creation, subscription tiers
+- **Signal ecosystem:** Live — elite signals with A/B/C grades, Discord distribution to channel + Papá DM + Vinicio DM
+- **Next:** Subscription tiers, educational content pipeline, Discord server polish
 
 ### Cortez Digital (SEO/Web Agency)
-- **Status:** Active, outreach phase
-- **Services:** SEO audits, web dev, AI services
-- **Next:** Land first client, Carlos partnership materials
+- **Status:** On hold while Merlyn stabilizes
+- **Next:** Land first client, Carlos partnership materials, portfolio samples
+
+### Personal Projects
+- **Mobile Linux Conversion (C37 Ultra):** Research phase — see Personal/Personal_Goals/Mobile-Linux-Conversion.md
+- **Apex Eval:** Waiting for 90% off sale before May 7 — dad offered to fund
 
 ## ✅ COMPLETED
 
-- Elite Signal Ecosystem (Apr 20-23)
-- Streamlit Dashboard (Apr 22)
-- Apex/NinjaTrader CSV Bridge (Apr 21)
-- Backtesting Engine (Apr 20)
-- 7-Layer Protection Stack (Apr 21)
-- Data Aggregator + Macro Checklist (Apr 23)
+- Two-Stage Adaptive Trailing Stop (validated: 100% profitable Monte Carlo)
+- SQLite Database + Analytics Module
+- Dashboard Launcher (all 9 ports)
+- Hub Buttons Fixed (Start All, Stop All, Restart)
+- Built-in Report Scheduler (no cron dependency)
+- Trade Data Enrichment (MTF, bias, confidence saved per trade)
+- Economic Calendar with Hardcoded 2026 Events
+- Signal Quality Grades (A/B/C)
+- Broadcast Filter (MTF >= 7)
+- Crash Detector via PapaScalper
+- MASTER-CONTEXT Auto-Update wired to end-session.sh
 
-## 🔜 UPCOMING
+## 🔴 BACKLOG
 
-- Vault organization
-- Papá's Scalper Module (1m/5m bot)
-- Subscription infrastructure
-- First $1k revenue
+- pandas backtest rewrite
+- RL agents → SQLite agent_state table
+- Market snapshots → SQLite
+- VPS deployment research
+- Finnhub economic calendar API
+- Fix daily summary SyntaxWarning
+- Carlos partnership materials
+- Instagram carousels days 3-7
+- Reels 2-6
+- Reddit scheduler project
 
-## After-Session Fixes (2026-05-01)
+---
 
-### Economic Calendar News Guard
-- Fix timezone comparison: make both `datetime.now()` and API event time UTC-aware
-- Add maximum blackout of 45 minutes to prevent stuck timer
-- Fix "0 min after" display message
-- Clear `.pyc` cache after fix to ensure changes take effect
-- Re-enable news guard after testing
-
-### Daily Summary Syntax Warning
-- Fix invalid escape sequence `\$` on main.py line 543
-
-### Duplicate Process Issue
-- Investigate why nohup spawns child main.py process
-
-## Backtest Findings (2026-05-01)
-
-### Key Insights
-- **LONG vs SHORT**: 46/46 LONG wins (100%) vs 0/16 SHORT wins (0%). RL agents correctly blocking shorts.
-- **Confidence**: MEDIUM 95.8% win rate. LOW 0%. LOW = guaranteed loss.
-- **Two-Stage Trail**: +$4,800 improvement over original. 100% profitable in Monte Carlo.
-- **MTF Data**: Only 2 trades have MTF scores saved. Need to enrich paper_trades.json.
-
-### Action Items
-- Save MTF score and bias with every trade in _save_closed_trade
-- Increase RL agent short-blocking threshold (currently agents vote 0/2 on shorts)
-- Consider momentum fallback only for MEDIUM confidence, never LOW
-
-## Final Backtest Results (2026-05-01)
-
-### Two-Stage Trail Validation
-- **62 trades tested, 1000 Monte Carlo simulations**
-- **100% probability of profit**
-- **+$4,800 average P&L** (vs -$179.75 original)
-- **96.8% win rate** (vs 74.2% original)
-
-### Optimal Parameters (Confirmed)
-- Activation: 0.25R
-- Trail Distance: 1.5x ATR
-- TP Multiplier: 2.0x ATR
-- Stage 2 trigger: 1R profit (tightens trail by 50%)
-
-### LONG vs SHORT
-- LONGS: Original +$380 → With Trail +$3,679 (+3,299)
-- SHORTS: Original -$560 → With Trail +$1,119 (+1,679)
-- Both 100% profitable in Monte Carlo
-
-### Data Enrichment
-- _save_closed_trade now captures: stop, target, confidence, confluence_score, setup_type, bias, mtf_consensus, market_regime
+## 🔗 Related
+- [[Goals.md]] — 2026 goals
+- [[Skills.md]] — Technical skills
+- [[../Academia-FuturosCapital_Bot/MERLYN-STATE.md]] — Bot state
+- [[../MASTER-CONTEXT.md]] — System overview

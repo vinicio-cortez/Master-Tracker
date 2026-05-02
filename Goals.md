@@ -30,3 +30,10 @@
 - [ ] Complete Jupiter Return intentional work
 - [ ] Dedicated workspace setup
 - [ ] Financial independence from agency/bot revenue
+
+---
+
+## 🔗 Related
+- [[Projects.md]] — Active projects
+- [[Skills.md]] — Technical skills
+- [[../MASTER-CONTEXT.md]] — System overview
