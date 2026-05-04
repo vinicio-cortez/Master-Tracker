@@ -1,4 +1,5 @@
 ## May 03, 2026
+- 09:46 PM: May 3: Tech resources (31 files). 15+ tools installed. SHORT 7269.25 exited profitably (scaled out 7256-7265). Historical SHORT win rate now 5% (1/20). Session complete.
 - 09:25 PM: May 3 final: Tech resources restructured (31 files, 6 ecosystems). 15+ tools installed. Merlyn RL learned 3k states. Historical SHORTS 0% win rate. SHORT @ 7269.25 active.
 - 07:47 PM: May 3: Tech resources restructured (25 files, 6 ecosystems). 15+ tools installed. Merlyn restarted. Swap cleared. SHORT @ 7269.25 under control.
 
